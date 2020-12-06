@@ -46,7 +46,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
-img {
+.img {
     border-style: solid;
     border-width: 3px;
     border-color: slategrey;
@@ -54,4 +54,5 @@ img {
     max-width: 100%;
     text-align: center;
     float: center;
+    object-fit: scale-down;
 }
