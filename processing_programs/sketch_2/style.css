@@ -1,8 +1,24 @@
 html, body {
-    margin: 0;
-    padding: 0;
-  }
-  canvas {
-    display: block;
-  }
-  
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.navbar-expand-md {
+  background-color: rgb(15, 82, 152);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-link {
+  color: rgb(38, 38, 38);
+}
+
+.nav-link:hover {
+  color: rgb(0, 0, 0);
+}
+
+.jumbotron {
+  background-color: rgb(204, 230, 243);
+}
