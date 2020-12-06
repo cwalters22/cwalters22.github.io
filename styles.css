@@ -1,28 +1,28 @@
 .btn-primary {
     border: 4px;
-    background-color: rgb(0, 172, 230);
+    background-color: rgb(102, 211, 250);
     color: rgb(38, 38, 38);
 }
 .btn-primary:hover {
     border: 4px;
-    background-color: rgb(51, 204, 255);
+    background-color: rgb(60, 153, 220);
     color: rgb(38, 38, 38);
 }
 
 .btn-outline-secondary {
     border: 4px;
-    background-color: rgb(51, 204, 255);
+    background-color: rgb(102, 211, 250);
     color: rgb(38, 38, 38);
 }
 
 .btn-outline-secondary:hover {
     border: 4px;
-    background-color: rgb(0, 172, 230);
+    background-color: rgb(60, 153, 220);
     color: rgb(38, 38, 38);    
 }
 
 .navbar-expand-md {
-    background-color: rgb(0, 77, 128);
+    background-color: rgb(15, 82, 152);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -35,7 +35,7 @@
 }
 
 .jumbotron {
-    background-color: rgb(204, 204, 204);
+    background-color: rgb(204, 230, 243);
 }
 
 .h1, .h2 {
@@ -46,13 +46,12 @@
     font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
-.img {
+img {
     border-style: solid;
     border-width: 3px;
-    border-color: slategrey;
-    max-height: 100%;
-    max-width: 100%;
+    border-color: rgb(5, 55, 97);
+    max-height: auto;
+    max-width: auto;
     text-align: center;
     float: center;
-    object-fit: scale-down;
 }
